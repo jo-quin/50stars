@@ -1,0 +1,314 @@
+Eridanus  θ¹ Eridani A  Acamar
+Eridanus  α Eridani A Achernar  
+Cassiopeia  η Cassiopeiae A Achird
+Scorpius  β Scorpii Aa  Acrab
+Crux  α Crucis Aa Acrux
+Cancer  α Cancri Aa Acubens
+Leo ζ Leonis Aa Adhafera
+Canis Major ε Canis Majoris A Adhara 
+Andromeda ξ Andromedae  Adhil
+Taurus  ε Tauri Aa1 Ain 
+Sagittarius ν¹ Sagittarii A Ainalrami
+Lyra  η Lyrae Aa  Aladfar 
+Andromeda γ Andromedae  Alamak 
+Lyra  μ Lyrae Alathfar
+Sagittarius π Sagittarii A  Albaldah  
+Aquarius  ε Aquarii Albali  
+Cygnus  β¹ Cygni Aa Albireo 
+Corvus  α Corvi Alchiba 
+Ursa Major  80 Ursae Majoris Ca Alcor 
+Taurus  η Tauri A Alcyone 
+Taurus  α Tauri Aldebaran 
+Cepheus α Cephei  Alderamin 
+Grus  γ Gruis Aldhanab  
+Draco ζ Draconis A  Aldhibah  
+Delphinus ε Delphini  Aldulfin
+Cepheus β Cephei Aa Alfirk
+Capricornus α² Capricorni A Algedi  
+Pegasus γ Pegasi  Algenib
+Leo γ¹ Leonis Algieba
+Perseus β Persei Aa1  Algol
+Corvus  δ Corvi A Algorab 
+Gemini  γ Geminorum Aa  Alhena
+Ursa Major  ε Ursae Majoris A Alioth
+Cygnus  ε Cygni Aa  Aljanah
+Ursa Major  η Ursae Majoris Alkaid    
+Boötes  μ¹ Boötis Aa  Alkalurops
+Ursa Major  κ Ursae Majoris A Alkaphrah
+Pegasus υ Pegasi  Alkarab
+Crater  α Crateris  Alkes
+Auriga  ε Aurigae Almaaz
+Andromeda γ Andromedae A  Almach 
+Grus  α Gruis Alnair
+Sagittarius γ² Sagittarii Alnasl
+Orion ε Orionis Alnilam 
+Orion ζ Orionis Aa  Alnitak
+Scorpius  σ Scorpii Aa1 Alniyat
+Hydra α Hydrae  Alphard
+Corona Borealis α Coronae Borealis  Alphecca
+Andromeda α Andromedae Aa Alpheratz
+Pisces  η Piscium Alpherg
+Draco μ Draconis A  Alrakis
+Pisces  α Piscium A Alrescha
+Draco HD 161693 Alruba
+Draco σ Draconis  Alsafi
+Lynx  31 Lyncis Alsciaukat
+Vela  δ Velorum Aa  Alsephina
+Aquila  β Aquilae A Alshain
+Capricornus ν Capricorni A  Alshat
+Aquila  α Aquilae Altair
+Draco δ Draconis  Altais
+Leo λ Leonis  Alterf
+Canis Major η Canis Majoris Aludra
+Ursa Major  ξ Ursae Majoris Aa  Alula Australis
+Ursa Major  ν Ursae Majoris Alula Borealis
+Serpens θ¹ Serpentis A  Alya
+Gemini  ξ Geminorum Alzirr
+Aquarius  θ Aquarii Ancha
+Eridanus  τ² Eridani  Angetenar
+Phoenix α Phoenicis Ankaa
+Vulpecula α Vulpeculae  Anser
+Boötes  α Boötis  Arcturus
+Lepus α Leporis A Arneb   
+Hydra ε Hydrae  Ashlesha
+Carina  ι Carinae Aspidiske
+Taurus  21 Tauri A  Asterope
+Draco η Draconis A  Athebyne
+Perseus ο Persei A  Atik
+Taurus  27 Tauri Aa1  Atlas
+Carina  ε Carinae A Avior
+Cygnus  π¹ Cygni  Azelfafage
+Eridanus  η Eridani Azha
+Puppis  ξ Puppis  Azmidi
+Eridanus  υ³ Eridani  Beemim
+Eridanus  ο¹ Eridani  Beid
+Orion γ Orionis Bellatrix
+Orion α Orionis Aa  Betelgeuse
+Aries 41 Arietis Aa Bharani
+Pegasus θ Pegasi  Biham
+Aries δ Arietis Botein
+Libra σ Librae A  Brachium
+Aquarius  ξ Aquarii Bunda
+Carina  α Carinae A Canopus
+Auriga  α Aurigae Aa  Capella
+Cassiopeia  β Cassiopeiae A Caph
+Gemini  α Geminorum Aa  Castor
+Cassiopeia  υ² Cassiopeiae  Castula
+Ophiuchus β Ophiuchi  Cebalrai
+Taurus  16 Tauri  Celaeno
+Ara μ Arae  Cervantes
+Taurus  θ² Tauri Aa Chamukuy
+Canes Venatici  β Canum Venaticorum Aa  Chara
+Leo θ Leonis  Chertan
+Cancer  55 Cancri A Copernicus
+Hercules  ω Herculis A  Cujam
+Eridanus  β Eridani Cursa
+Capricornus β¹ Capricorni Aa  Dabih
+Fornax  α Fornacis A  Dalim
+Cygnus  α Cygni Deneb
+Leo β Leonis  Denebola
+Cetus β Ceti  Diphda
+Scorpius  δ Scorpii A Dschubba
+Ursa Major  α Ursae Majoris A Dubhe
+Draco ψ¹ Draconis A Dziban
+Draco ι Draconis  Edasich
+Taurus  17 Tauri  Electra
+Virgo φ Virginis  Elgafar
+Columba θ Columbae  Elkurud
+Taurus  β Tauri Aa  Elnath
+Draco γ Draconis  Eltanin 
+Pegasus ε Pegasi  Enif
+Cepheus γ Cephei Aa Errai
+Draco 42 Draconis A Fafnir
+Scorpius  π Scorpii Aa  Fang
+Cygnus  δ Cygni Fawaris
+Hydra HD 85951  Felis
+Cassiopeia  ζ Cassiopeiae Fulu
+Pisces  β Piscium Fumalsamakah
+Canis Major ζ Canis Majoris Aa  Furud
+Scorpius  G Scorpii Fuyue
+Crux  γ Crucis  Gacrux
+Draco λ Draconis  Giausar
+Corvus  γ Corvi A Gienah
+Crux  ε Crucis  Ginan
+Canis Minor β Canis Minoris A Gomeisa
+Scorpius  ξ Scorpii Graffias
+Draco ξ Draconis A  Grumium
+Serpens κ Serpentis Gudja
+Ophiuchus 36 Ophiuchi Guniibuu
+Centaurus β Centauri Aa Hadar
+Auriga  η Aurigae Haedus
+Aries α Arietis Hamal
+Auriga  ι Aurigae Hassaleh
+Orion ι Orionis Aa  Hatysa
+Pegasus 51 Pegasi Helvetios
+Virgo ζ Virginis  Heze
+Pegasus ζ Pegasi A  Homam
+Scorpius  ρ Scorpii Aa  Iklil
+Crux  δ Crucis  Imai
+Boötes  ε Boötis A  Izar
+Scorpius  ν Scorpii Aa  Jabbah
+Gemini  ο Geminorum Jishui
+Cetus γ Ceti A  Kaffaljidhma
+Sagittarius α Lupi  Kakkab
+Virgo κ Virginis  Kang
+Lupus λ Sagittarii  Kekouan
+Eridanus  40 Eridani A  Keid    
+Virgo λ Virginis A  Khambalia
+Equuleus  α Equulei A Kitalpha
+Ursa Minor  β Ursae Minoris Kochab
+Hercules  β Herculis Aa Kornephoros
+Corvus  β Corvi Kraz
+Draco ν Draconis  Kuma
+Cepheus ξ Cephei Aa Kurhah
+Scorpius  ε Scorpii Larawag
+Scorpius  υ Scorpii Lesath
+Aquila  ξ Aquilae A Libertas
+Virgo PSR B1257+12  Lich
+Hercules  λ Herculis  Maasym
+Auriga  θ Aurigae A Mahasim
+Taurus  20 Tauri  Maia
+Cassiopeia  θ Cassiopeiae Marfark
+Ophiuchus λ Ophiuchi A  Marfik
+Pegasus α Pegasi  Markab
+Vela  κ Velorum Markeb
+Hercules  κ Herculis A  Marsic
+Pegasus η Pegasi Aa Matar
+Gemini  ε Geminorum Mebsuta
+Ursa Major  δ Ursae Majoris Megrez
+Orion λ Orionis A Meissa
+Gemini  ζ Geminorum Aa  Mekbuda
+Cancer  ε Cancri Aa Meleph
+Auriga  β Aurigae Aa  Menkalinan
+Cetus α Ceti  Menkar
+Centaurus θ Centauri  Menkent
+Perseus ξ Persei  Menkib
+Ursa Major  β Ursae Majoris Merak
+Boötes  38 Boötis Merga
+Taurus  23 Tauri Aa Merope
+Aries γ² Arietis A  Mesarthim
+Carina  β Carinae Miaplacidus
+Crux  β Crucis  Mimosa
+Hydra σ Hydrae  Minchir
+Virgo δ Virginis  Minelauva
+Orion δ Orionis Aa  Mintaka
+Cetus ο Ceti Aa Mira
+Andromeda β Andromedae  Mirach
+Perseus η Persei A  Miram
+Perseus α Persei  Mirfak
+Perseus κ Persei Aa Misam
+Ursa Major  ζ Ursae Majoris Aa  Mizar 
+Triangulum  α Trianguli Mothallah
+Canis Major γ Canis Majoris Muliphein
+Boötes  η Boötis Aa Muphrid
+Ursa Major  ο Ursae Majoris A Muscida
+Delphinus 18 Delphini Musica
+Cancer  ξ Cancri  Nahn
+Puppis  ζ Puppis  Naos
+Capricornus γ Capricorni A  Nashira
+Cassiopeia  γ Cassiopeia  Navi
+Boötes  β Boötis  Nekkar
+Andromeda 51 Andromedae Nembus
+Lepus β Leporis A Nihal
+Sagittarius σ Sagittarii Aa Nunki
+Corona Borealis β Coronae Borealis A  Nusakan
+Aquila  ζ Aquilae Okab
+Scorpius  τ Scorpii Paikauhale
+Pavo  α Pavonis Aa  Peacock
+Columba α Columbae  Phact
+Ursa Major  γ Ursae Majoris Aa  Phecda
+Ursa Minor  γ Ursae Minoris Pherkad
+Cancer  λ Cancri A  Piautos
+Scorpius  μ² Scorpii A  Pipirima
+Taurus  28 Tauri Aa Pleione
+Sagittarius μ Sagittarii Aa Polis
+Gemini  β Geminorum Pollux
+Virgo γ Virginis A  Porrima
+Leo Minor 46 Leonis Minoris Praecipua
+Canis Minor α Canis Minoris A Procyon
+Gemini  η Geminorum A Propus
+Eridanus  ε Eridani Ran
+Leo μ Leonis  Rasalas
+Hercules  α¹ Herculis Aa  Rasalgethi
+Ophiuchus α Ophiuchi A  Rasalhague
+Draco β Draconis A  Rastaban
+Vela  γ Velorum Regor
+Leo α Leonis A  Regulus
+Pisces  ζ Piscium A Revati
+Orion β Orionis A Rigel
+Delphinus β Delphini A  Rotanev
+Cassiopeia  δ Cassiopeiae Aa  Ruchbah
+Sagittarius α Sagittarii  Rukbat
+Ophiuchus η Ophiuchi A  Sabik
+Auriga  ζ Aurigae A Saclateni
+Aquarius  γ Aquarii Aa  Sadachbia
+Pegasus μ Pegasi  Sadalbari
+Aquarius  α Aquarii A Sadalmelik
+Aquarius  β Aquarii A Sadalsuud
+Cygnus  γ Cygni A Sadr
+Orion κ Orionis Saiph
+Pegasus τ Pegasi  Salm
+Scorpius  θ Scorpii A Sargas
+Hercules  δ Herculis Aa Sarin
+Ursa Major  θ Ursae Majoris Sarir
+Eridanus  53 Eridani A  Sceptrum
+Pegasus β Pegasi  Scheat
+Cassiopeia  α Cassiopeiae Schedar 
+Taurus  δ¹ Tauri Aa Secunda Hyadum
+Cassiopeia  ε Cassiopeia  Segin
+Boötes  γ Boötis Aa Seginus
+Sagittarius η Sagittarii  Sephdar
+Sagitta α Sagittae  Sham
+Scorpius  λ Scorpii Aa  Shaula
+Lyra  β Lyrae Aa1 Sheliak
+Aries β Arietis A Sheratan
+Aquarius  κ Aquarii A Situla
+Aquarius  δ Aquarii A Skat
+Virgo α Virginis Aa Spica
+Delphinus α Delphini Aa Sualocin
+Leo ο Leonis Aa Subra
+Vela  λ Velorum Suhail
+Lyra  γ Lyrae Sulafat
+Virgo ι Virginis  Syrma
+Orion π³ Orionis  Tabit 
+Draco 8 Draconis  Taiyi
+Ursa Major  ι Ursae Majoris Aa  Talitha
+Aquila  γ Aquilae Tarazed
+Cancer  β Cancri  Tarf
+Taurus  19 Tauri Aa Taygeta
+Cancer  ζ¹ Cancri A Tegmine
+Gemini  μ Geminorum Aa  Tejat
+Sagittarius ω Sagittarii A  Terebellum
+Orion υ Orionis Thabit
+Eridanus  υ² Eridani  Theemin
+Draco α Draconis A  Thuban
+Grus  β Gruis Tiaki
+Taurus  ζ Tauri A Tianguan
+Draco 7 Draconis  Tianyi
+Andromeda υ Andromedae A  Titawin
+Centaurus α Centauri B  Toliman 
+Camelopardalis  HD 104985 Tonatiuh
+Pisces  ο Piscium A Torcular
+Puppis  ρ Puppis A  Tureis
+Hydra ι Hydrae  Ukdah
+Serpens α Serpentis Unukalhai
+Canis Major σ Canis Majoris Unurgunite
+Lyra  α Lyrae Vega
+Andromeda 14 Andromedae A Veritate
+Virgo ε Virginis  Vindemiatrix
+Gemini  δ Geminorum Aa  Wasat
+Columba β Columbae  Wazn
+Canis Major δ Canis Majoris Aa  Wezen
+Phoenix ζ Phoenicis Aa  Wurren
+Scorpius  μ¹ Scorpii Aa Xamidimura
+Boötes  λ Boötis  Xuange  
+Ursa Minor  δ Ursae Minoris Yildun
+Virgo η Virginis Aa Zaniah
+Eridanus  γ Eridani Zaurak
+Virgo β Virginis  Zavijava
+Hydra υ¹ Hydrae A Zhang
+Eridanus  ζ Eridani Aa  Zibal
+Leo δ Leonis  Zosma
+Libra α² Librae Aa  Zubenelgenubi
+Libra γ Librae A  Zubenelhakrabi
+Libra β Librae  Zubeneschamali

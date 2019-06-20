@@ -1,0 +1,7 @@
+1 Mercury 07h 04m +24.3°
+2 Venus 04h 18m +20.6°
+3 Mars 07h 21m +23.3°
+4 Jupiter 17h 11m -22.4°
+5 Saturn 19h 20m -21.8°
+6 Uranus 02h 11m +12.7°
+7 Neptune 23h 19m -05.5°
